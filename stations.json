@@ -1,0 +1,13 @@
+{
+    "stations": [
+        {
+            "name": "145KMVCC I AST",
+            "latitude": 45.143611,
+            "longitude": 47.708611,
+            "phone": "+7 851 2585753",
+            "email": "rmp@astranet.ru",
+            "address": "FGUP Rosmorport 31, Captain Krasnov Str. 414016 Astrakhan Russia"
+        }
+        
+    ]
+}
